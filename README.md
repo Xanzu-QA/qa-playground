@@ -1,2 +1,3 @@
-# qa-portfolio
-A collection of my QA projects and learning resources – including Selenium (Java), Postman, SQL, TestRail test cases, and exploratory testing notes.
+# qa-playground
+Goal: A personal space to commit various small QA exercises and experiments.
+Project idea: A non-polished repo to document your learning: Postman collections, SQL practice, Selenium tests, etc.
