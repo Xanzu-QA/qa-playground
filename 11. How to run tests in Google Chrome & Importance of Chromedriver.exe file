@@ -1,0 +1,21 @@
+11. How to run tests in Google Chrome & Importance of Chromedriver.exe file
+
+package intro;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class SelIntroduction {
+
+	public static void main(String[] args) {
+	
+		
+		//Invoking Browser
+		//Chrome - ChromeDriver -> Methods
+		System.setProperty("webdriver.chromedriver", "/Users/krawc/Documents/chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+
+	}
+
+}
+
